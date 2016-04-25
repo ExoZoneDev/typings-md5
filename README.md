@@ -2,4 +2,4 @@
 Typings for the md5 npm package
 
 ## Install
-`typings install --save github:ExoZoneDev/typings-md5#eda97860fee3e56f53faa5235d3295fe954502cd`
+`typings install --save github:ExoZoneDev/typings-md5#9a029933d26adb6b6125b0b415b7e18a4c5951bb`
